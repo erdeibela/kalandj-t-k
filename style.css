@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+body{
+    background-image: url(img/forest.avif);
+    font-family:"Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.asd{
+    font-size: 20px;
+    color: brown;
+}
+
+.kozep{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: yellow;
+}
